@@ -6,7 +6,7 @@ We were placed into a group of 4 persons to compile a website based on a company
 
 In the group, we were each assigned to create 1 of 4 pages of this company's website and merge them into 1 page. These 4 sections were: Landing Page, Gallery, History, and Contact. We will go over each section in detail below.
 
-**HERE (link)** is the preview of the full website when put together.
+**HERE (https://lisonallie.github.io/Crumble/)** is the preview of the full website when put together.
 
 # :eyeglasses: Sections
 
